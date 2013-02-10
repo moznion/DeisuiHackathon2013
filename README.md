@@ -23,7 +23,7 @@
 ６月の初旬から中旬、土日でやる予定です。  
 宿をおさえる都合上、参加人数が固まらないと日程も決定できないので、詳しい日程は後ほど…
 ## 開催場所
-[石和温泉](https://maps.google.co.jp/maps?hl=ja&safe=off&q=github+google+map+readme&ie=UTF-8&ei=7OQXUarJKcnMkwWNxIGYBA&ved=0CAgQ_AUoAA)周辺を考えています
+[石和温泉](https://maps.google.co.jp/maps?hl=ja&safe=off&q=%E7%9F%B3%E5%92%8C%E6%B8%A9%E6%B3%89&ie=UTF-8&hq=&hnear=0x601bfbfecae25d05:0x102499ebb3906c51,%E5%B1%B1%E6%A2%A8%E7%9C%8C+%E7%9F%B3%E5%92%8C%E6%B8%A9%E6%B3%89%E9%A7%85&gl=jp&ei=HuwXUdG8BKibmQXM1YDAAQ&sqi=2&ved=0CL4BELYD)周辺を考えています
 ## 予算
 1万円〜1万5千円のあいだくらいで (現地集合現地解散なので交通費別途)
 ## 参加方法
