@@ -1,5 +1,10 @@
 # 泥酔ハッカソン2013 (2013.02.14 更新)
 ![deisui\_logo](https://raw.github.com/moznion/DeisuiHackathon2013/master/logo/logo.png)
+  
+## !!! 日程調整中です !!!  
+参加するぞー、あるいはしたいぞーという方は以下のURL に飛んで、参加できそうな日程を教えて下さい。調整します。  
+[http://chouseisan.com/schedule/List?h=087bfc90123382ec2c2ceb5efd71afcd](http://chouseisan.com/schedule/List?h=087bfc90123382ec2c2ceb5efd71afcd)  
+
 ## 泥酔ハッカソンとは
 関東近郊の温泉宿に一泊しつつ、お酒が入っている状態でハッカソン的業務をやりましょう！！！！　みたいなイベントです。  
 詳細はがっちり固まっていません。参加人数によって流動的に調整させて下さい
